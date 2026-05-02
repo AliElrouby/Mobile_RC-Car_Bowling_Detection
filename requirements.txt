@@ -1,0 +1,14 @@
+opencv-python
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ultralytics
+tqdm
+pillow
+albumentations
+plotly
+onnx
+onnxruntime
+LabelImg
