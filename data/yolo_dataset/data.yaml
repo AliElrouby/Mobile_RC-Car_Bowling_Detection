@@ -1,0 +1,20 @@
+# =========================
+# YOLO DATA CONFIG
+# =========================
+
+path: ../data/yolo_dataset   # root dataset folder
+
+train: images/train
+val: images/val
+test: images/test
+
+# =========================
+# CLASSES
+# =========================
+names:
+  0: Standing pin
+  1: Fallen pin
+  2: Car
+
+
+
