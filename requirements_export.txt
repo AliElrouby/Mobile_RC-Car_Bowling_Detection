@@ -1,0 +1,23 @@
+# Core
+ultralytics==8.4.46
+
+# TensorFlow (needed for TFLite conversion)
+tensorflow==2.19.0
+tf-keras
+
+# ONNX pipeline
+onnx>=1.16.0
+onnxruntime>=1.18.0
+onnxslim>=0.1.92
+
+# Conversion tools
+onnx2tf>=1.26.3,<1.29.0
+sng4onnx>=1.0.1
+onnx_graphsurgeon>=0.3.26
+
+# Edge optimization
+ai-edge-litert>=1.2.0
+
+# General deps (safe)
+numpy>=1.26.0
+protobuf>=5.0.0
