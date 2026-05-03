@@ -1,4 +1,0 @@
-standing_pin
-fallen_pin
-car
-
