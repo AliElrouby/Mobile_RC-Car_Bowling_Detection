@@ -1,4 +1,5 @@
 .venv
+.venv_export
 src/extracted_frames
 runs/detect
 dataset
